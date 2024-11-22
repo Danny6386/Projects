@@ -58,3 +58,4 @@ def clean_terminal_screen():
 while True:
   main()
   print()
+#suck my dick
